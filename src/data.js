@@ -62,7 +62,8 @@ module.exports = {
       name: 'Project Yarr',
       description: "Yarr the game takes place in medieval carribean, and tells the story of a man who’s life, ship and dignity has been taken away by the captain of the Flying Dutchman. Your Role is to regain your dignity and recapture the most infamous ship of the seven seas.",
       tags: ['Unity', 'C#', '.net'],
-      img: 'yarrgame.jpg'
+      img: 'yarrgame.jpg',
+      url: ''
     },
     {
       name: 'Bucket List',
