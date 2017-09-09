@@ -16,6 +16,13 @@ module.exports = {
   ],
   projects: [
     {
+      name: 'Bodybuilder',
+      description: 'Bodybuilder is a project for the University of Groningen where you have to micro-manage your own space station hospital and solve math equations related to prosthesis development.',
+      tags: ['C#', 'Unity', '.net'],
+      alt: 'Bodybuilder Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
+      img: 'Bodybuilder.png'
+    },
+    {
       name: 'Domo',
       description: 'Domo is an FOSS home automation framework and is designed to be modular and easy to develop for.',
       tags: ['C#', 'IronPython', 'Python', '.net'],
