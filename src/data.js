@@ -20,7 +20,16 @@ module.exports = {
       description: 'Bodybuilder is a project for the University of Groningen where you have to micro-manage your own space station hospital and solve math equations related to prosthesis development.',
       tags: ['C#', 'Unity', '.net'],
       alt: 'Bodybuilder Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
-      img: 'Bodybuilder.png'
+      img: 'Bodybuilder.png',
+      url: ''
+    },
+    {
+      name: 'ViRTuE WindTech',
+      description: 'ViRTuE WindTech is a research and development project to develop and test a wind turbine technician training in virtual reality. The player will be trained in the basic engineering of a wind turbine and how to safely maintain and repair a wind turbine.',
+      tags: ['C#', 'Unity', '.net'],
+      alt: 'ViRTuE WindTech Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
+      img: 'ViRTuE WindTech.png',
+      url: ''
     },
     {
       name: 'Domo',
