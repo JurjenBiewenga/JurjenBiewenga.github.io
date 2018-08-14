@@ -98,6 +98,10 @@ module.exports = {
   ],
   experiences: [
     {
+      title: 'Software Developer @ CleVR',
+      timeline: 'Feb 2018 - Present',
+    },
+    {
       title: 'Freelance Developer',
       timeline: 'Jun 2015 - Present',
     }
