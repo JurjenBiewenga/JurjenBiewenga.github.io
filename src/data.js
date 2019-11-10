@@ -69,7 +69,7 @@ module.exports = {
     },
     {
       name: 'Global Game Jam 2016 - Necromagic',
-      description: "With great power comes great responsibility. Combine resources to summon your minions and send them off towards the other necromancer. He or she will try to do the same! Do you have what it takes to control your minions and fence off the other necromancer?",
+      description: "With great power comes great responsibility. Combine resources to summon your minions and send them off towards the other necromancer. They will try to do the same! Do you have what it takes to control your minions and fence off the other necromancer?",
       tags: ['Unity', 'C#', '.net'],
       img: 'Necromagic.png',
       url: 'http://globalgamejam.org/2016/games/necromagic'
@@ -98,11 +98,15 @@ module.exports = {
   ],
   experiences: [
     {
-      title: 'Software Developer @ CleVR',
+      title: 'Software Engineer @ CleVR',
+	  tags: ['Unity', 'WPF', 'C#', '.net', 'VR'],
+	  description: "Revamped the software installation/build process to minimize user error and increase speed.\nDeveloped and released several products using Unity and WPF.",
       timeline: 'Feb 2018 - Present',
     },
     {
-      title: 'Freelance Developer',
+      title: 'Lunosis',
+	  tags: ['Unity', 'C#', '.net', 'VR', 'VR Training'],
+	  description: "Freelance software development with a focus on VR",
       timeline: 'Jun 2015 - Present',
     }
   ]
