@@ -6,13 +6,13 @@ module.exports = {
   footerTitle: 'Freelance developer',
   email: 'j.f.biewenga@gmail.com',
   cta: {
-    label: '',
-    url: '',
+    label: 'Resume',
+    url: 'https://github.com/JurjenBiewenga/jsonresume/raw/master/resume.pdf',
   },
   socials: [
     { icon: 'github-circled', url: 'https://github.com/JurjenBiewenga' },
     { icon: 'mail-alt' }, // mail alt automatically links to mailto:email
-    { icon: 'linkedin-squared', url: 'https://www.linkedin.com/in/jurjen-biewenga-2b1b9796/' },
+    { icon: 'linkedin-squared', url: 'https://www.linkedin.com/in/jurjen-biewenga-2b1b9796/' }
   ],
   projects: [
     {
@@ -62,7 +62,7 @@ module.exports = {
     },
     {
       name: 'ExMan-3D South Africa',
-      description: "ExMan-3D is a serious game where you play the role of the manager of your own catering company. This game is going to assist with the classes given at the Potchefstroom Campus. The main purpose of the game is helping students and trainees to learn how to handle difficult situations and how to make the best choice to keep everyone involved happy. To do this, the game consists of full voice acted dialogue and interactions with a world entirely in 3D for the player to walk around in.",
+      description: "ExMan-3D is a serious game where you play the role of the manager of your own catering company. This game is going to assist with the classes given at the Potchefstroom Campus. The main purpose of the game is helping students and trainees to learn how to handle difficult situations and how to make the best choice to keep everyone involved happy. To do this, the game consists of fully voice acted dialogue and interactions with a world entirely in 3D for the player to walk around in.",
       tags: ['Unity', 'C#', '.net'],
       img: 'ExMan-3D.png',
       url: ''
