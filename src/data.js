@@ -12,7 +12,7 @@ module.exports = {
   socials: [
     { icon: 'github-circled', url: 'https://github.com/JurjenBiewenga' },
     { icon: 'mail-alt' }, // mail alt automatically links to mailto:email
-    { icon: 'linkedin-squared', url: 'https://www.linkedin.com/in/jurjen-biewenga-2b1b9796/' }
+    { icon: 'lin-squared', url: 'https://www.linkedin.com/in/jurjen-biewenga-2b1b9796/' }
   ],
   projects: [
     {
