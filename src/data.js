@@ -4,7 +4,7 @@ module.exports = {
   description: "I'm a freelance developer with several years of experience in C#, Unity and virtual reality applications",
   name: 'Jurjen Biewenga',
   footerTitle: 'Freelance developer',
-  email: 'j.f.biewenga@gmail.com',
+  email: 'me@jurjenbiewenga.com',
   cta: {
     label: 'Resume',
     url: 'https://github.com/JurjenBiewenga/jsonresume/raw/master/resume.pdf',
@@ -98,16 +98,22 @@ module.exports = {
   ],
   experiences: [
     {
+      title: 'Tools Programmer @ Seriously',
+      tags: ['Unity', 'C#', '.net'],
+      description: "Working with developers and designers to create and support the tools they need to streamline and improve the development processes",
+      timeline: 'Sept 2020 - Present',
+    },
+    {
       title: 'Software Engineer @ CleVR',
-	  tags: ['Unity', 'WPF', 'C#', '.net', 'VR'],
-	  description: "Revamped the software installation/build process to minimize user error and increase speed.\nDeveloped and released several products using Unity and WPF.",
-      timeline: 'Feb 2018 - Present',
+      tags: ['Unity', 'WPF', 'C#', '.net', 'VR'],
+      description: "Revamped the software installation/build process to minimize user error and increase speed.\nDeveloped and released several products using Unity and WPF.",
+      timeline: 'Feb 2018 - Aug 2020',
     },
     {
       title: 'Lunosis',
-	  tags: ['Unity', 'C#', '.net', 'VR', 'VR Training'],
-	  description: "Freelance software development with a focus on VR",
-      timeline: 'Jun 2015 - Present',
+      tags: ['Unity', 'C#', '.net', 'VR', 'VR Training'],
+      description: "Freelance software development with a focus on VR",
+      timeline: 'Jun 2015 - Aug 2020',
     }
   ]
 }
