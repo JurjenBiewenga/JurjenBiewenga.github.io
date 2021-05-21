@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Jurjen Biewenga',
   header: "Hi, my name is Jurjen Biewenga",
-  description: "I'm a freelance developer with several years of experience in C#, Unity and virtual reality applications",
+  description: "I'm a software developer with several years of experience in C#, Unity and an affinity for tool development",
   name: 'Jurjen Biewenga',
   footerTitle: 'Freelance developer',
   email: 'me@jurjenbiewenga.com',
